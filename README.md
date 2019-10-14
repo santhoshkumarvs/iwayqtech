@@ -1,4 +1,4 @@
-Terraform Code Blocks
+#Terraform Code Blocks
 
 1. Provider
 2. Resource
@@ -6,7 +6,7 @@ Terraform Code Blocks
 4. Variable
 5. Output
 
-Terraform Commands
+#Terraform Commands
 
 1. $terraform version
 2. $terraform init

@@ -6,7 +6,7 @@ provider "aws" {
   region     = "${var.region}"
 }
 
-#Variables
+#Adding variables
 
 #Create EC2 instance
 resource "aws_instance" "TestInstance1" {

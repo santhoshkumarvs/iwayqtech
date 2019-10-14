@@ -6,6 +6,6 @@
       name: httpd
       state: installed
   - name: start service
-    service: 
+    service:
        name: httpd
        state: started

@@ -1,3 +1,4 @@
+#variable declarations:
 variable "access_key" {
     type = "string"
     default = "xxxxxxxxxxx"
