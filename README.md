@@ -20,4 +20,4 @@ Scenario#1
 
 1. Deploy AWS EC2 instance in default VPC
 2. Create Security Group  and allow port 22 & 80
-3. Run Ansible Playbook to  install and  configure Apache httpd
+3. Run Ansible Playbook to  install and  configure Apache httpd and php.
